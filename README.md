@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">print("Hello, world!") # Output: Hello, world!</h1>
+<h1 align="left">Hey there! 😃✨ What's up? 🚀</h1>
 
 ###
 
